@@ -17,8 +17,8 @@ This FastAPI application provides APIs to manage articles, authors, tags, and co
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/KostasSpiridopoulos/BackendAssignment.git
+cd BackendAssignment
 ```
 
 ### 2. Create a Virtual Environment
