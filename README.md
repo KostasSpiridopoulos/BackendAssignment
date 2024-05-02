@@ -72,7 +72,7 @@ The application will be accessible at `http://127.0.0.1:8000`.
 The application provides APIs to manage articles, authors, tags, and comments. Once the application is running, you can interact with the APIs through the automatically generated Swagger UI available at:
 
 ```
-http://127.0.0.1:8000/docs
+http://localhost:8000/docs#
 ```
 
 Here you can:
