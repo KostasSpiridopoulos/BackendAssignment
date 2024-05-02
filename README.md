@@ -1,4 +1,3 @@
-```markdown
 # FastAPI Application
 
 This FastAPI application provides APIs to manage articles, authors, tags, and comments. The application includes sample data and offers functionality for users to interact with data through the provided APIs.
